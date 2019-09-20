@@ -1,0 +1,16 @@
+*,
+*:before,
+*:after {
+    margin: 0;
+    padding: 0;
+    border:0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color:#dffc00;
+    color: #939344;
+}
+.paragraph {
+    color: #939344;
+}
